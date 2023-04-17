@@ -85,3 +85,8 @@ td {
     font-size: 1.5rem;
 }
 
+/*BONUS*/
+main, footer {
+    padding-left: 200px;
+    padding-right: 200px;
+}
