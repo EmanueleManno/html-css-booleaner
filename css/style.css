@@ -17,6 +17,7 @@
 
 #descrizionefoto {
     font-size: 0.8rem;
+    margin-top: 0;
 }
 
 span {
@@ -29,9 +30,15 @@ ul {
     padding-left: 0;
 }
 
+table {
+    margin: 0;
+    border-collapse: collapse;
+}
+
 thead {
     background-color: darkcyan;
     height: auto;
+    text-align: left;
 }
 
 td {
