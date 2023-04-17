@@ -1,15 +1,23 @@
-#container {
+.container {
     background-image: url("../img/pattern.png");
+    background-repeat: repeat;
+    background-color: lightskyblue;
+    height: 200px;
 }
 
 #logotitolo {
-    font-size: 10px;
+    max-width: 300px;
+    margin-left: 0;
+    margin-top: 70px;
 }
 
 .sottotitolo {
     color:grey
 }
 
+#descrizionefoto {
+    font-size: 0.8rem;
+}
 
 #titolofooter {
     color: grey;
@@ -23,6 +31,7 @@
     background-repeat: no-repeat;
     color: white;
     font-size: 1.5rem;
+    margin-bottom: 0;
 }
 
 #immaginefooter2 {
