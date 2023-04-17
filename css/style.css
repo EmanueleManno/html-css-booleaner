@@ -11,6 +11,10 @@
 }
 
 
+#titolofooter {
+    color: grey;
+}
+
 #immaginefooter1 {
     background-image: url("../img/monitor.jpg");
     background-size: contain;
