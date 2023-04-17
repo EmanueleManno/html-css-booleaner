@@ -19,6 +19,10 @@
     font-size: 0.8rem;
 }
 
+span {
+    background-color: yellow;
+}
+
 #titolofooter {
     color: grey;
 }
